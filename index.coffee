@@ -1,5 +1,5 @@
 # Description:
-#   Allows commands to be executed with a rate limit to prevent them being called too much.
+#   THE GREATER GOOD
 #
 # Dependencies:
 #   None
@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   No commands - called from inside scripts
+#   greater good - THE GREATER GOOD
 #
 # Author:
 #   Shaun Donnelly <https://github.com/shaundon>

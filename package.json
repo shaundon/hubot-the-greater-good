@@ -1,12 +1,12 @@
 {
-  "name": "hubot-rate-limiter",
-  "version": "0.0.3",
-  "description": "Hubot script that allows other scripts to be rate limited.",
+  "name": "hubot-the-greater-good",
+  "version": "0.0.1",
+  "description": "THE GREATER GOOD",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/shaundon/hubot-rate-limiter.git"
+    "url": "git://github.com/shaundon/hubot-the-greater-good.git"
   },
   "keywords": [
     "hubot",
@@ -17,9 +17,9 @@
   "author": "Shaun Donnelly <shaundonnelly@gmail.com>",
   "licence": "MIT",
   "bugs": {
-    "url": "https://github.com/shaundon/hubut-rate-limiter/issues"
+    "url": "https://github.com/shaundon/hubot-the-greater-good/issues"
   },
-  "homepage": "https://github.com/shaundon/hubot-rate-limiter",
+  "homepage": "https://github.com/shaundon/hubot-the-greater-good",
   "devDependencies": {},
   "license": "MIT"
 }
